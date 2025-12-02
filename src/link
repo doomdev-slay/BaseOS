@@ -1,0 +1,1 @@
+ld -m i386pe -Ttext 0x1000 d:/com32.ld -o kernel.elf kernel.o
